@@ -210,7 +210,7 @@
             // exportbil
             // 
             this.exportbil.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exportbil.Location = new System.Drawing.Point(708, 290);
+            this.exportbil.Location = new System.Drawing.Point(728, 216);
             this.exportbil.Margin = new System.Windows.Forms.Padding(2);
             this.exportbil.Name = "exportbil";
             this.exportbil.Size = new System.Drawing.Size(131, 34);
@@ -221,7 +221,7 @@
             // 
             // deletebill
             // 
-            this.deletebill.Location = new System.Drawing.Point(731, 160);
+            this.deletebill.Location = new System.Drawing.Point(728, 159);
             this.deletebill.Margin = new System.Windows.Forms.Padding(2);
             this.deletebill.Name = "deletebill";
             this.deletebill.Size = new System.Drawing.Size(118, 34);
