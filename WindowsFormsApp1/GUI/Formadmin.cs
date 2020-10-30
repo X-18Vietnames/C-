@@ -27,8 +27,8 @@ namespace WindowsFormsApp1.GUI
         }
         public void showdesk()
         {
-            comboBox1.DataSource = DESKBUS.GETDESK();
-            comboBox1.ValueMember = "IDDESK";
+            ////comboBox1.DataSource = DESKBUS.GETDESK();
+            //comboBox1.ValueMember = "IDDESK";
         }
         public void showdatagridview()
         {
@@ -49,7 +49,7 @@ namespace WindowsFormsApp1.GUI
             this.dataGridView1.DefaultCellStyle.Font = new Font("Times New Roman", 15);
             this.dataGridView2.DefaultCellStyle.Font = new Font("Times New Roman", 15);
 
-
+   
 
         }
         // click dấu tích chọn món
