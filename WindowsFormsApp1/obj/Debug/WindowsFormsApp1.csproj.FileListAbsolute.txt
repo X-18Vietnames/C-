@@ -2,10 +2,10 @@ D:\BTLSQL-SV\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 D:\BTLSQL-SV\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 D:\BTLSQL-SV\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
-D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Formadmin.resources
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.admin.resources
+D:\BTLSQL-SV\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Employer.resources
