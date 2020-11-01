@@ -1,19 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApp1.DAL;
 using WindowsFormsApp1.CLASS;
+using WindowsFormsApp1.DAL;
+using System.Data;
 
 namespace WindowsFormsApp1.BUS
 {
-    class DESKBUS
+    class SPECIESBUS
     {
-        public static DataTable GETDESK()
+
+        public static DataTable GETSPECIES()
         {
-            return DESKDAL.GetDesk();
+            return SPECIESDAL.GETSPECIES();
         }
     }
 }

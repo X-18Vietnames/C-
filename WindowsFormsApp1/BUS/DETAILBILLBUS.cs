@@ -1,19 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WindowsFormsApp1.DAL;
 using WindowsFormsApp1.CLASS;
+using WindowsFormsApp1.DAL;
+using System.Data;
 
 namespace WindowsFormsApp1.BUS
 {
-    class DESKBUS
+    class DETAILBILLBUS
     {
-        public static DataTable GETDESK()
+        public static DataTable GETDETAIBILL()
         {
-            return DESKDAL.GetDesk();
+            return DETAILBILLDAL.GETDETAILBILL();
         }
     }
 }

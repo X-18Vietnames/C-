@@ -51,7 +51,8 @@ namespace WindowsFormsApp1.GUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int rowIndex = dataGridView2.CurrentCell.RowIndex;
+            dataGridView2.Rows.RemoveAt(rowIndex);
         }
 
         private void exportbil_Click(object sender, EventArgs e)
